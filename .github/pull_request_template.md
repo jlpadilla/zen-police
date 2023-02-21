@@ -1,9 +1,7 @@
-<!-- Please include the Jira issue in the title, example: 'ACM-0000 Adds feature ABC' -->
+<!-- Include the Jira issue in the title, example: 'ACM-0000 Implement feature XYZ' -->
 
 ### Related Issue
-<!-- Link to Jira, Bugzilla, or other record with additional information about the changes requested. -->
-https://issues.redhat.com/browse/ACM-0000
+https://issues.redhat.com/browse/ACM-0000 <!-- Update Jira link -->
 
 ### Description of changes
-<!-- Describe what is changing with this pull request. -->
 - Added ...
