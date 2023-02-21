@@ -9,4 +9,3 @@ https://issues.redhat.com/browse/ACM-0000
 ### Description of changes
 <!-- Describe what is changing with this pull request. -->
 - Added ...
-
